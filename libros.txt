@@ -1,0 +1,6 @@
+AAAAAAaaaaaa          Principito020
+AAAAAAbbbbbb              Hobbit039
+AAAAAAdddddd               Cobol010
+BBBBBBaaaaaa          Principito050
+DDDDDDdddddd               Cobol015
+DDDDDDffffff       Base de datos040
